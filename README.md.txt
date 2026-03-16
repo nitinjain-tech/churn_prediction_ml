@@ -1,4 +1,5 @@
 # Customer Churn Prediction System
+EDA → Model Training → Pipeline → FastAPI → Prediction API
 
 ## Project Overview
 This project builds a machine learning system to predict customer churn using customer behavior data. The model identifies customers likely to leave based on usage patterns, payment behavior, and support interactions.
